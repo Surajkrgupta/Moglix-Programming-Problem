@@ -8,7 +8,4 @@ A valid parentheses substring is one where every opening parenthesis `'('` has a
 
 # Approach (Stack)
 
-## Idea
-Use a **stack** to store the **indices** of parentheses instead of the characters.
-
 - **Time Complexity & Space Complexity:** `O(n)`
